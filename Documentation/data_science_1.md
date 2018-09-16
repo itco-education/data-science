@@ -22,6 +22,7 @@ will be part of the student edition workshops only).
 
 VCDTCD050:
   * Define and decompose real-world problems precisely, taking into account functional and non-functional requirements and including interviewing stakeholders to identify needs
+
 ---
 
 All of the code we will be writing in the data science part of the workshop will be done using [Google Colab Notebook](https://colab.research.google.com/). These notebooks can be run anywhere with a browser, and don't require any special tools or installs.
