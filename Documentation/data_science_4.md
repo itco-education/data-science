@@ -23,11 +23,15 @@ So if we want to list only the breeds, we can use:
 pets.Breed
 ```
 
+![Pets Breed](https://raw.githubusercontent.com/itco-education/data-science/master/Documentation/Images/petsbreed.png)
+
 That's cool, but it shows us every single row, still too much data... let's get summarising! How about counting the number of rows each breed?
 
 ```python
 pets.Breed.value_counts()
 ```
+
+![Pets Breed](https://raw.githubusercontent.com/itco-education/data-science/master/Documentation/Images/petsbreedcount.png)
 
 `value_counts()` will *count* the number of *values* in each row! By default, it is sorted by the count, so the most common value will be shown first.
 
