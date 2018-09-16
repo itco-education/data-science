@@ -11,40 +11,24 @@
       "url": "https://raw.githubusercontent.com/itco-education/data-science/master/Documentation/data_science_2.md"
     },
     {
-      "title": "Time to load the data",
+      "title": "3. Time to load the data",
       "url": "https://raw.githubusercontent.com/itco-education/data-science/master/Documentation/data_science_3.md"
     },
     {
-      "title": "Exploration time",
+      "title": "4. Exploration time",
       "url": "https://raw.githubusercontent.com/itco-education/data-science/master/Documentation/data_science_4.md"
     },
     {
-      "title": "Iteration 5",
+      "title": "5. Queries",
       "url": "https://raw.githubusercontent.com/itco-education/data-science/master/Documentation/data_science_5.md"
     },
     {
-      "title": "Iteration 6",
+      "title": "6.Visualisations",
       "url": "https://raw.githubusercontent.com/itco-education/data-science/master/Documentation/data_science_6.md"
     },
     {
-      "title": "Iteration 7",
+      "title": "7. Your turn!",
       "url": "https://raw.githubusercontent.com/itco-education/data-science/master/Documentation/data_science_7.md"
-    },
-    {
-      "title": "Iteration 8",
-      "url": "https://raw.githubusercontent.com/itco-education/data-science/master/Documentation/data_science_8.md"
-    },
-    {
-      "title": "Iteration 9",
-      "url": "https://raw.githubusercontent.com/itco-education/data-science/master/Documentation/data_science_9.md"
-    },
-    {
-      "title": "Iteration 10",
-      "url": "https://raw.githubusercontent.com/itco-education/data-science/master/Documentation/data_science_10.md"
-    },
-    {
-      "title": "Iteration 11",
-      "url": "https://raw.githubusercontent.com/itco-education/data-science/master/Documentation/data_science_11.md"
     }
   ]
 }
