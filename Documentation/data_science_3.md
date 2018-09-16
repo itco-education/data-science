@@ -12,7 +12,7 @@ import pandas as pd
 
 To actually run this code, simply click the *play* button on the left of the cell. Alternatively you can make sure you have the correct cell selected, and hit *shift+enter* on the keyboard.
 
-TODO UPLOAD IMAGE
+![pets dataframe](https://raw.githubusercontent.com/itco-education/data-science/master/Documentation/Images/code_in_cell.png)
 
 Now let's load our CSV file into Pandas. In a new cell write the following code:
 
@@ -28,7 +28,6 @@ To check that it is all working, underneath the line we just added, simply type 
 pets = pd.read_csv('surfcoastshireregisteredanimals.csv', sep=',',header=0)
 pets
 ```
-
-TODO SHOW PETS IMAGE
+![pets dataframe](https://raw.githubusercontent.com/itco-education/data-science/master/Documentation/Images/pets.png)
 
 This will print the data loaded in pets. You should see the Pandas table with the information from the CSV! If you come across an error, don't worry! Make sure you have run all of the previous cells in sequence by clicking the *play* button. Make sure you do see the data before proceeding to the next step.
