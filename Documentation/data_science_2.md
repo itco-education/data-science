@@ -9,4 +9,4 @@ Data science often entails exploration of datasets. In this workshop we will be 
 3. Select *file* -> *new python3 notebook*. (You will need to sign in to a Google account so you can save your progress.)
 4. Rename the file in the top left.
 5. Upload the CSV you downloaded to the notebook:
-    ![Iteration Two](https://raw.githubusercontent.com/itco-education/cave-escape/master/Documentation/Images/iteration_2.gif)
+    ![Iteration Two](https://raw.githubusercontent.com/itco-education/data-science/master/Documentation/Images/upload_file.gif)
