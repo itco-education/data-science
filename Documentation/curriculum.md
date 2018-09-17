@@ -1,2 +1,4 @@
-- [VCDTCD052](http://victoriancurriculum.vcaa.vic.edu.au/Curriculum/ContentDescription/VCDTCD052)
-- [VCDTCD053](http://victoriancurriculum.vcaa.vic.edu.au/Curriculum/ContentDescription/VCDTCD053)
+- [VCDTDI047](http://victoriancurriculum.vcaa.vic.edu.au/Curriculum/ContentDescription/VCDTDI047)
+- [VCDTDI048](http://victoriancurriculum.vcaa.vic.edu.au/Curriculum/ContentDescription/VCDTDI048)
+- [VCDTDI049](http://victoriancurriculum.vcaa.vic.edu.au/Curriculum/ContentDescription/VCDTDI049)
+- [VCDTDI050](http://victoriancurriculum.vcaa.vic.edu.au/Curriculum/ContentDescription/VCDTDI050)
