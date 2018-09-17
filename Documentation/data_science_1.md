@@ -9,18 +9,18 @@ Data science is simply the act of exploring and extracting information from data
 * Google Colab Notebooks
 
 ### Victorian Curriculum Alignment
-VCDTDI047:
+[VCDTDI047](http://victoriancurriculum.vcaa.vic.edu.au/Curriculum/ContentDescription/VCDTDI047):
   * Extracting specific data from an external source and storing it in a format that is more useful for analysis, for example combining mapping data from multiple electronic data sets to build a composite representation.
 
-VCDTDI048:
+[VCDTDI048](http://victoriancurriculum.vcaa.vic.edu.au/Curriculum/ContentDescription/VCDTDI048):
   * Experiment with data visualisation techniques, identifying why certain visualisations are more appropriate for certain data sources.
   * Summarising data using advanced filtering and grouping techniques, for example pivot tables in spreadsheets and aggregation functions in databases.
 
-VCDTDI049:
+[VCDTDI049](http://victoriancurriculum.vcaa.vic.edu.au/Curriculum/ContentDescription/VCDTDI049):
   * Examine the need for data security, legal liability, and responsibilities of engineers. (This content
 will be part of the student edition workshops only).
 
-VCDTCD050:
+[VCDTDI050](http://victoriancurriculum.vcaa.vic.edu.au/Curriculum/ContentDescription/VCDTDI050):
   * Define and decompose real-world problems precisely, taking into account functional and non-functional requirements and including interviewing stakeholders to identify needs
 
 ---
