@@ -1,6 +1,6 @@
 ## Getting Started
 
-Data science often entails exploration of datasets. In this workshop we will be exploring a CSV published bt the Australian Government containing information about [pet registrations in the Surf Coast Shire](https://data.gov.au/dataset/surf-coast-shire-animal-regsitrations).
+Data science often entails exploration of datasets. In this workshop we will be exploring a CSV published bt the Australian Government containing information about [pet registrations in the Surf Coast Shire](https://data.gov.au/dataset/632131eb-9233-41ef-9b33-61a82e3d6b80/resource/291c5a1e-88a8-4a6e-9555-81c4220e5dae/download/surfcoastshireregisteredanimals.csv).
 
 ## Step 0 (Getting Ready!)
 

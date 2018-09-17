@@ -16,9 +16,12 @@ We can assign that to a new DataTable, called `bellas`!
 
 ```python
 bellas = pets[pets.Animal_Name == "BELLA"]
+bellas
 ```
 
-This is pretty powerful, because now we can perfom the same queries before, on an already filtered table! So, we're still trying to find out where the Bellas are... How about we count the suburbs of the Bellas?
+![Dogs named Bella](https://raw.githubusercontent.com/itco-education/data-science/master/Documentation/Images/bellas.png)
+
+This is pretty powerful, because now we can perform the same queries before, on an already filtered table! So, we're still trying to find out where the Bellas are... How about we count the suburbs of the Bellas?
 
 ```python
 bellas.Suburb.value_counts()
