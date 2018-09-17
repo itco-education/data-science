@@ -1,2 +1,3 @@
 - [Google Colab Notebook](https://colab.research.google.com/)
-- [pet registrations in the Surf Coast Shire](https://data.gov.au/dataset/surf-coast-shire-animal-regsitrations)
+- [Helpful Python Data Snippets](https://medium.com/@msalmon00/helpful-python-code-snippets-for-data-exploration-in-pandas-b7c5aed5ecb9)
+- [Pet Registrations in the Surf Coast Shire](https://data.gov.au/dataset/surf-coast-shire-animal-regsitrations)
