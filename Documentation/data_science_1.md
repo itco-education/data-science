@@ -17,8 +17,7 @@ Data science is simply the act of exploring and extracting information from data
   * Summarising data using advanced filtering and grouping techniques, for example pivot tables in spreadsheets and aggregation functions in databases.
 
 [VCDTDI049](http://victoriancurriculum.vcaa.vic.edu.au/Curriculum/ContentDescription/VCDTDI049):
-  * Examine the need for data security, legal liability, and responsibilities of engineers. (This content
-will be part of the student edition workshops only).
+  * Examine the need for data security, legal liability, and responsibilities of engineers.
 
 [VCDTDI050](http://victoriancurriculum.vcaa.vic.edu.au/Curriculum/ContentDescription/VCDTDI050):
   * Define and decompose real-world problems precisely, taking into account functional and non-functional requirements and including interviewing stakeholders to identify needs
